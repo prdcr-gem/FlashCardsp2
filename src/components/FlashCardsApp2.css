@@ -6,6 +6,7 @@
     height: 100vh;
     width: 100vw; /* Ensures it takes the full width */
     text-align: center;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/004/968/002/non_2x/cute-abstract-modern-background-free-vector.jpg');
 }
 
 .flashcard {
@@ -25,6 +26,7 @@
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
+    
 }
 
 .flashcard.is-flipped .flashcard-inner {
@@ -43,7 +45,7 @@
     border-radius: 10%  10% 10% 10%;
     padding: 20px;
     box-sizing: border-box;
-    background-color: rgb(93, 146, 195);
+    background-color: rgb(164, 192, 219);
 }
 
 .flashcard-back {
