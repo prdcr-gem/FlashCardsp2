@@ -1,10 +1,10 @@
 import React from "react";
-import FlashcardsApp2 from "./components/FlashCardsApp2.jsx";
+import FlashCardsApp2 from "./components/FlashCardsApp2.jsx";
 
 function App() {
   return (
     <div>
-      <FlashcardsApp2 />
+      <FlashCardsApp2 />
     </div>
   );
 }
