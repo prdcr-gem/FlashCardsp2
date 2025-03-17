@@ -2,7 +2,7 @@
 
 Submitted by: Geraldine Bongato
 
-This web app: This app tests your brain and help you get your brain going!
+This web app: This app tests and helps your brain to get going!
 
 Time spent: **X** hours spent in total
 
