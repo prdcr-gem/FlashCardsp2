@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [] List anything else that you added to improve the site's functionality!
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -43,7 +43,7 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
-Making the submission a form for the user to guess, indicating whether they have a correct or incorrect answer using check validation. Remembering the props and useState(). 
+Making a submission form for the user to guess, indicating whether they have the correct or incorrect answer using check validation. Remembering the props and useState(). 
 
 ## License
 
