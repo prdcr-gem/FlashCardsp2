@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Card from "./Card";
+import Card from "./Card"; // Import the missing Card component
 
 const flashcards = [
   { question: "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?", answer: "Echo" },
@@ -14,7 +14,7 @@ const flashcards = [
   { question: "The more you use me, the more you leave behind. What am I?", answer: "A trail" }
 ];
 
-export default function App() {
+export default function FlashcardsApp2() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
 
