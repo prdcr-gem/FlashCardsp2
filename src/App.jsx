@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { Card, CardContent } from "./components/ui/card";
-import { Button } from "./components/ui/button";
+import { Card } from "src/Card.jsx";
+import { Button } from "src/Button.jsx";
 
 
 const flashcards = [
